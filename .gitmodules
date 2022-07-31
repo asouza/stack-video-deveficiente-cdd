@@ -1,0 +1,3 @@
+[submodule "plugin-cdd-java"]
+	path = plugin-cdd-java
+	url = git@github.com:gustavopintozup/plugin-cdd-java.git
